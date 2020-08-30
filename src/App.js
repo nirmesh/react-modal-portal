@@ -25,7 +25,7 @@ export default function App() {
         </Modal>
       </div>
 
-      <div style={OTHER_CONTENT_STYLES}>Other Content</div>
+      <div style={OTHER_CONTENT_STYLES}>Other Content write nirmesh here</div>
     </>
   )
 }
